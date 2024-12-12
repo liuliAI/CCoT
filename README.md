@@ -10,9 +10,9 @@
 This repository contains the code and data for the CCoT project, which aims to advance long-text error correction in post-Automatic Speech Recognition (ASR) transcripts using fine-grained contextual Chain-of-Thought.
 
 ### PALTEC Dataset
--PALTEC: Currently, we have only opened some examples of the entire test and training sets containing 20000 samples.
--Training data and code: The entire training set and code will be made public after our paper is accepted.
--* * MP3 * *: All MP3 audio files can be found here（https://pan.baidu.com/s/16VJNLRMrAfk05htePZDQQQ?pwd=xmiz）to get (10.6GB)
+- **PALTEC**: Currently, we have only opened some examples of the entire test and training sets containing 20000 samples. Dataset samples can be queried in the 'data'.
+- **Training** data and code: The entire training set and code will be made public after our paper is accepted.
+- **MP3**: All MP3 audio files can be found [here](https://pan.baidu.com/s/16VJNLRMrAfk05htePZDQQQ?pwd=xmiz) to get (10.6GB)
 
 **Notice**: The trainset and code will be released upon the acceptance of our paper. Stay tuned for updates!
 ---
@@ -36,7 +36,7 @@ This repository contains the code and data for the CCoT project, which aims to a
 
 ### PALTEC数据集
 
-- **PALTEC**: 目前，我们只开放了包含2万条的全部测试集和训练集的一些示例。
+- **PALTEC**: 目前，我们只开放了包含2万条的全部测试集和训练集的一些示例。数据集样例可在data中查询。
 - **Training data and Code**: 全部训练集和代码将在我们的论文被接受后公开。
 - **MP3**: 全部mp3音频文件可在[此处](https://pan.baidu.com/s/16VJNLRMrAfk05htePZDQQQ?pwd=xmiz)获取 （10.6GB）
 
