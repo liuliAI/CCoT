@@ -17,8 +17,7 @@ Our data mainly comes from [LCSTS](https://aclanthology.org/D15-1229/). The over
 | MuCGEC       | —            | 7063         | CSL  | 92.7%               | 3.2              | 38.5         | 2.3          | —              |
 | CSCD-NS      | 30000        | 5000         | NCS  | 46.02%              | 1.09             | —            | 1            | —              |
 | FCGEC        | 36340        | 5000         | NCS  | 54.45%              | —                | 53.1         | 1.7          | —              |
-| ------------ | ------------ | ------------ | ---- | ------------------- | ---------------- | ------------ | ------------ | -------------- |
-| PALTEC       | 80000        | 20000        | NCS  | 85%                 | 2.44             | 102.1        | 1.6          | 259.8          |
+| **PALTEC**       | **80000**        | **20000**        | **NCS**  | **85%**                 | **2.44* *           | **102.1**        | **1.6**          | **259.8**          |
 
 
 Compared with previous text error correction datasets, PALTEC has a larger scale, which helps to train more accurate and generalizing models. PALTEC has an appropriate error rate, which is more in line with the actual scene; PALTEC has richer answers and is better for evaluation.
@@ -31,5 +30,5 @@ For more details on the PALTEC dataset, please refer to our paper.
 
 **Notice**: The trainset and code will be released upon the acceptance of our paper. Stay tuned for updates!
 ---
-
+Currently open source [PALTEC test](https://github.com/liuliAI/CCoT/tree/main/data), all audio MP3 files of [PALTEC](https://pan.baidu.com/s/16VJNLRMrAfk05htePZDQQQ?pwd=xmiz) and [eval code](https://github.com/liuliAI/CCoT/tree/main/eval). The training set and all code will be released after our paper is accepted. Please continue to follow updates!
 
