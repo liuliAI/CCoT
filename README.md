@@ -28,6 +28,7 @@
 - **Training data and Code**: 全部训练集和代码将在我们的论文被接受后公开。
 - **MP3**: 全部PALTEC的MP3音频文件可在[此处](https://pan.baidu.com/s/16VJNLRMrAfk05htePZDQQQ?pwd=xmiz)获取 （10.6GB）
 - **Eval**: 评估方法可在[eval](https://github.com/liuliAI/CCoT/tree/main/eval)获取
+
 **通知**: 目前已经开源[PALTEC测试集](https://github.com/liuliAI/CCoT/tree/main/data)，[PALTEC的全部音频文件](https://pan.baidu.com/s/16VJNLRMrAfk05htePZDQQQ?pwd=xmiz)以及[评估代码](https://github.com/liuliAI/CCoT/tree/main/eval)，训练集和全部代码将在我们的论文被接受后发布。请继续关注更新！
 ---
 
